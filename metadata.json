@@ -1,0 +1,6 @@
+{
+  "name": "Elixir Beverages",
+  "description": "Premium, pristine, and life-enhancing mineral water bottled with innovative eco-luxury craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
