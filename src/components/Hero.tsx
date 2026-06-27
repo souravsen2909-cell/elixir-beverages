@@ -133,7 +133,7 @@ export default function Hero() {
               {/* Main Image */}
               <div className="aspect-[4/5] sm:aspect-[16/13] lg:aspect-[4/5] relative bg-white flex items-center justify-center">
                 <img
-                  src="/src/assets/images/elixir_splash_bottles_1782555361775.jpg"
+                  src="/images/elixir_splash_bottles_1782555361775.jpg"
                   alt="Two premium Elixir water bottles side-by-side with crisp water splashing dynamically on a clean background"
                   className="object-cover w-full h-full hover:scale-102 transition-transform duration-500"
                   referrerPolicy="no-referrer"
