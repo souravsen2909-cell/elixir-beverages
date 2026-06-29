@@ -12,7 +12,7 @@ export default function Discover() {
     premium: {
       id: 'premium',
       name: 'Premium Alkaline Water',
-      image: '/images/elixir_premium_anatomy_1782570170282.jpg',
+      image: '/src/assets/images/elixir_premium_anatomy_1782570170282.jpg',
       desc: 'Our premium alkaline water is crafted for those who crave the finest—smooth, refreshing, and packed with balance. Every sip is an experience, whether you’re reaching for the sleek 500 ml or the generous 1-litre bottle. It’s more than just water—it’s a pure moment of indulgence, designed to elevate your day, your health, and your hydration game. Go ahead, choose the premium side of life—you deserve it!',
       pH: '8.8 pH Boosted',
       benefits: [
@@ -25,7 +25,7 @@ export default function Discover() {
     everyday: {
       id: 'everyday',
       name: 'Everyday Alkaline Water',
-      image: '/images/elixir_everyday_anatomy_1782570324944.jpg',
+      image: '/src/assets/images/elixir_everyday_anatomy_1782570324944.jpg',
       desc: 'Giving everyday hydration an upgrade! Our everyday alkaline water is all about keeping things crisp, refreshing, and just the right balance. Whether you’re reaching for a 500 ml to power through the day or grabbing a 1-litre bottle to stay refreshed all day long, you’ll notice the difference in every sip. It’s simple, it’s clean, and it’s the water your body’s been craving—hydrate smarter, not harder!',
       pH: '7.8 pH Balanced',
       benefits: [
