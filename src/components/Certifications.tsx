@@ -3,12 +3,12 @@ import { Award } from 'lucide-react';
 
 export default function Certifications() {
   const certificates = [
-    { id: 'iso-22000', src: '/src/assets/images/iso_22000_certified_1782570937152.jpg', alt: 'ISO 22000 Certified' },
-    { id: 'haccp', src: '/src/assets/images/haccp_certified_1782570958323.jpg', alt: 'HACCP Certified' },
-    { id: 'gmp', src: '/src/assets/images/gmp_certified_1782570973305.jpg', alt: 'GMP Certified' },
-    { id: 'fssai', src: '/src/assets/images/fssai_logo_1782570989153.jpg', alt: 'FSSAI Licensed' },
-    { id: 'iso-9001', src: '/src/assets/images/iso_9001_certified_1782571002124.jpg', alt: 'ISO 9001 Certified' },
-    { id: 'isi', src: '/src/assets/images/isi_mark_1782571016522.jpg', alt: 'ISI Mark IS 14543' }
+    { id: 'iso-22000', src: '/images/iso_22000_certified_1782570937152.jpg', alt: 'ISO 22000 Certified' },
+    { id: 'haccp', src: '/images/haccp_certified_1782570958323.jpg', alt: 'HACCP Certified' },
+    { id: 'gmp', src: '/images/gmp_certified_1782570973305.jpg', alt: 'GMP Certified' },
+    { id: 'fssai', src: '/images/fssai_logo_1782570989153.jpg', alt: 'FSSAI Licensed' },
+    { id: 'iso-9001', src: '/images/iso_9001_certified_1782571002124.jpg', alt: 'ISO 9001 Certified' },
+    { id: 'isi', src: '/images/isi_mark_1782571016522.jpg', alt: 'ISI Mark IS 14543' }
   ];
 
   return (
